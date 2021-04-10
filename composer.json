@@ -4,10 +4,10 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Amir Najmi",
-            "email": "amirmo.naj@gmail.com",
+            "name": "amirnajmi",
+            "email": "amirmo.naj@gmail.com"
         }
-    ],  
+    ],
     "minimum-stability": "dev",
     "homepage": "https://github.com/amirnajmi/contactus",
     "keywords": ["Laravel", "ContactUs"],
